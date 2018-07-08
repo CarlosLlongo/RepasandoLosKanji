@@ -1,0 +1,27 @@
+2055:\u5944:cubrir
+2058:\u4ffa:menda
+2088:\u7A3D:entrenamiento:423
+2092:\u65ac:seccionar
+2093:\u514e:conejo:1812
+2094:\u4E5F:est
+2169:\u546a:maldición
+2220:\u5c3b:trasero
+2289:\u6D32:continente
+2344:\u72d9:apuntar
+2398:\u845b:kudzu:774
+2484:\u676d:estaca
+2583:\u7709:ceja
+2601:\u7962:santuario ancestral
+2646:\u7b48:deberías
+2653:\u7cde:excremento
+2687:\u8702:abeja:535
+2691:\u87ba:tornillo
+2712:\u8ab0:quién
+2727:\u8a3b:anotación
+2746:\u91a4:salsa de soja:1039
+2750:\u9192:despertar:1849
+2844:\u5750:sentarse a meditar:1118
+2900:\u65BC:dentro de
+2940:\u7526:resucitar
+2960:\u90a3:interrogativo
+2961:\u725F:muu

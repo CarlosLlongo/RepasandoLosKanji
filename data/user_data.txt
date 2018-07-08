@@ -1,0 +1,12 @@
+# UserData for Repasando los Kanji
+# Sun Jul 08 18:19:19 CEST 2018
+easy_remaining_kanji=
+easy_store_kanji=
+hard_remaining_kanji=
+hard_store_kanji=
+last_readings_learned_cout=0
+last_writings_learned_cout=0
+medium_remaining_kanji=
+medium_store_kanji=
+number_of_readings_learned=0
+number_of_writings_learned=0
